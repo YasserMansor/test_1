@@ -1,0 +1,21 @@
+/*STRAT MAIN RULEZ */
+
+/*END MAIN RULEZ */
+body{
+    background-color: #f4f4f4;
+}
+/*START LOGIN FORM*/
+.login{
+    width: 300px;
+    margin: 100px auto;
+}
+.login h4{
+    color: #888;
+}
+.login input{
+    margin-bottom: 10px;
+}
+.login .form-control{
+    background-color: #e5e5e5;
+}
+/*END LOGIN FORM*/
